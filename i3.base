@@ -205,6 +205,6 @@ exec tint2 &
 
 #i3-gaps config
 for_window [class="^.*"] border pixel 10
-#smart_borders no_gaps
+#smart_borders no_gaps (<== UNCOMMENT IF YOU ARE USING i3-gaps)
 set gaps inner 0px
 set gaps outer 0px
